@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://magic-win1.soton-sis.uk/sitemap.xml
+Sitemap: https://xo-service.ru/sitemap.xml
